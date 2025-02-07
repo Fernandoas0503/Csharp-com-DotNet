@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel.Design;
 using System.Globalization;
 
-namespace Curso_Exercicio1
+namespace Exercicios_Curso
 {
     class Program
     {
@@ -20,8 +20,6 @@ namespace Curso_Exercicio1
             {
                 Console.WriteLine("Ímpar!");
             }
-                
-
         }
     }
 }
